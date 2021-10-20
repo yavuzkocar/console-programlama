@@ -1,0 +1,3 @@
+# console-programlama
+
+# ilk ders
